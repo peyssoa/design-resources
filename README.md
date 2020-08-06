@@ -13,6 +13,7 @@ A list of mostly open source/free resources for design
 * [Many Pixels](https://www.manypixels.co/gallery/)
 * [Control](https://control.rocks/)
 * [Blush Design](https://blush.design/)
+* [Humaaans](https://www.humaaans.com/)
 
 ## Icons
 * [Teeny Icons](https://teenyicons.com/)
