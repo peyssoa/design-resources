@@ -19,6 +19,9 @@ A list of mostly open source/free resources for design
 * [Teeny Icons](https://teenyicons.com/)
 * [Icons8](https://icons8.com/illustrations)
 
+## Tools and Collections
+* [Colors and Fonts](https://www.colorsandfonts.com/)
+
 ## Other Curated Lists
 * https://orchomenos.github.io/Design-resources/#0
 * https://digifloat.io/blog/get-free-illustrations-images/
