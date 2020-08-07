@@ -18,6 +18,7 @@ A list of mostly open source/free resources for design
 ## Icons
 * [Teeny Icons](https://teenyicons.com/)
 * [Icons8](https://icons8.com/illustrations)
+* [Feather Icons](https://feathericons.com/)
 
 ## Tools and Collections
 * [Colors and Fonts](https://www.colorsandfonts.com/)
