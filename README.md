@@ -24,6 +24,7 @@ A list of mostly open source/free resources for design
 ## Tools and Collections
 1. [Colors and Fonts](https://www.colorsandfonts.com/)
 2. [UI Goodies](https://uigoodies.com/)
+3. [Font Fabric](https://www.fontfabric.com/)
 
 ## Other Curated Lists
 1. https://orchomenos.github.io/Design-resources/#0
