@@ -25,6 +25,7 @@ A list of mostly open source/free resources for design
 1. [Colors and Fonts](https://www.colorsandfonts.com/)
 2. [UI Goodies](https://uigoodies.com/)
 3. [Font Fabric](https://www.fontfabric.com/)
+4. [Compressor IO - Image Compression](https://compressor.io/)
 
 ## Other Curated Lists
 1. https://orchomenos.github.io/Design-resources/#0
