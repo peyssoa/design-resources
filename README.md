@@ -20,6 +20,7 @@ A list of mostly open source/free resources for design
 2. [Icons8](https://icons8.com/illustrations)
 3. [Feather Icons](https://feathericons.com/)
 4. [Endless Icons](http://endlessicons.com/)
+5. [Forge Icons](https://icons.theforgesmith.com/)
 
 ## Tools and Collections
 1. [Colors and Fonts](https://www.colorsandfonts.com/)
