@@ -1,5 +1,5 @@
 # Design Resources
-A list of mostly open source/free resources for design
+A list of *mostly* open source/free resources for design
 
 ## Ilustrations
 1. [IRA Designs](https://iradesign.io/)
