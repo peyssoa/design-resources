@@ -29,6 +29,11 @@ A list of *mostly* open source/free resources for design
 4. [Compressor IO - Image Compression](https://compressor.io/)
 5. [Transfonter - Convert a Font File to different types](https://transfonter.org/)
 
+## Inspiration
+1. [Code my UI](https://codemyui.com/)
+2. [Bleech](https://bleech.io/)
+3. [https://collectui.com/](https://collectui.com/)
+
 ## Other Curated Lists
 1. https://orchomenos.github.io/Design-resources/#0
 2. https://digifloat.io/blog/get-free-illustrations-images/
