@@ -14,7 +14,13 @@ A list of *mostly* open source/free resources for design
 10. [Control](https://control.rocks/)
 11. [Blush Design](https://blush.design/)
 12. [Humaaans](https://www.humaaans.com/)
-13. [Patters](https://products.ls.graphics/paaatterns/)
+13. [Paaatterns](https://products.ls.graphics/paaatterns/)
+14. [Absurd](https://absurd.design/)
+15. [Open Peeps](https://www.openpeeps.com/)
+16. [Paper Illustrations](https://iconscout.com/paper-illustrations)
+17. [Get Illustrations](https://www.getillustrations.com/illustration-packs/freebie)
+18. [Illustrations](https://illlustrations.co/)
+19. 
 
 ## Icons
 1. [Teeny Icons](https://teenyicons.com/)
