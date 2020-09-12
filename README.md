@@ -14,6 +14,7 @@ A list of *mostly* open source/free resources for design
 10. [Control](https://control.rocks/)
 11. [Blush Design](https://blush.design/)
 12. [Humaaans](https://www.humaaans.com/)
+13. [Patters](https://products.ls.graphics/paaatterns/)
 
 ## Icons
 1. [Teeny Icons](https://teenyicons.com/)
