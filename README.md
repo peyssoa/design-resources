@@ -53,3 +53,9 @@ A list of *mostly* open source/free resources for design
 1. https://orchomenos.github.io/Design-resources/#0
 2. https://digifloat.io/blog/get-free-illustrations-images/
 3. https://wweb.dev/resources/free-svg-illustrations
+
+## Tailwind Resources
+1. https://tailwindcomponents.com/search?query=hero
+2. https://tailwind-gradient-designer.csspost.com/
+3. https://tailwind.ink/
+4. https://www.creative-tim.com/learning-lab/tailwind-starter-kit/presentation
