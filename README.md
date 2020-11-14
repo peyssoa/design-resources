@@ -44,7 +44,6 @@ A list of *mostly* open source/free resources for design
 5. [Land Book](https://land-book.com/gallery)
 6. [One Page Love](https://onepagelove.com/)
 7. [LandingFolio](https://www.landingfolio.com/)
-8. [Landbook](https://land-book.com/)
 
 ## Colours
 1. [Pigments](https://pigment.shapefactory.co/?ref=blog.moeminmamdouh.com)
