@@ -28,6 +28,7 @@ A list of *mostly* open source/free resources for design
 4. [Endless Icons](http://endlessicons.com/)
 5. [Forge Icons](https://icons.theforgesmith.com/)
 6. [Hero Icons](https://heroicons.com/)
+7. [Simple Icons](https://simpleicons.org/) - mainly logos of popular brands
 
 ## Tools and Collections
 1. [Colors and Fonts](https://www.colorsandfonts.com/)
