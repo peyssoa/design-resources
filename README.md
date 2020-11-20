@@ -29,7 +29,6 @@ A list of *mostly* open source/free resources for design
 5. [Forge Icons](https://icons.theforgesmith.com/)
 6. [Hero Icons](https://heroicons.com/)
 7. [Simple Icons](https://simpleicons.org/) - mainly logos of popular brands
-8. [Transform Tools](https://transform.tools/)
 
 ## Tools and Collections
 1. [Colors and Fonts](https://www.colorsandfonts.com/)
@@ -37,6 +36,7 @@ A list of *mostly* open source/free resources for design
 3. [Font Fabric](https://www.fontfabric.com/)
 4. [Compressor IO - Image Compression](https://compressor.io/)
 5. [Transfonter - Convert a Font File to different types](https://transfonter.org/)
+6. [Transform Tools](https://transform.tools/)
 
 ## Inspiration / Practice
 1. [Code my UI](https://codemyui.com/)
