@@ -20,6 +20,7 @@ A list of *mostly* open source/free resources for design
 16. [Paper Illustrations](https://iconscout.com/paper-illustrations)
 17. [Get Illustrations](https://www.getillustrations.com/illustration-packs/freebie)
 18. [Illustrations](https://illlustrations.co/)
+19. [Shapefest](https://www.shapefest.com/)
 
 ## Icons
 1. [Teeny Icons](https://teenyicons.com/)
