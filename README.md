@@ -64,3 +64,8 @@ A list of *mostly* open source/free resources for design
 2. https://tailwind-gradient-designer.csspost.com/
 3. https://tailwind.ink/
 4. https://www.creative-tim.com/learning-lab/tailwind-starter-kit/presentation
+
+## Photography
+1. [Unsplash](http://unsplash.com/)
+2. [PNG Hunter](https://pnghunter.com/) - Cropped Photography (Good for product images)
+3. [KindPNG](https://www.kindpng.com/)
