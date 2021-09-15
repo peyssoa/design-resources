@@ -41,6 +41,7 @@ A list of *mostly* open source/free resources for design
 5. [Transfonter - Convert a Font File to different types](https://transfonter.org/)
 6. [Transform Tools](https://transform.tools/)
 7. [0to255 Hover Tool](https://www.0to255.com/)
+8. [Gradient Generator](https://cssgradient.io/)
 
 ## Inspiration / Practice
 1. [Code my UI](https://codemyui.com/)
