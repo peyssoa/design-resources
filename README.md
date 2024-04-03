@@ -23,6 +23,7 @@ A list of *mostly* open source/free resources for design
 19. [Shapefest](https://www.shapefest.com/)
 20. [Appydev Illustrations](https://appydev.co/illustrations)
 21. [Storyset](https://storyset.com/)
+22. [Illustrations Co](https://illlustrations.co/)
 
 ## Icons
 1. [Teeny Icons](https://teenyicons.com/)
